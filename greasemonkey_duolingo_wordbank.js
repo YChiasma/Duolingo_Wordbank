@@ -1,11 +1,14 @@
 // ==UserScript==
 // @name     Duolingo Wordbank Toggle
 // @version  1
+// @description A Greasemonkey script that adds "Show Word Bank" to Duolingo to make copy and pasting easier.
+// @license  Apache-2.0
 // @grant    none
 // @include  https://www.duolingo.com/lesson
 // ==/UserScript==
 
-console.log("Script active");
+// Github:       https://github.com/YChiasma/Duolingo_Wordbank
+// Greasyfork:   https://greasyfork.org/en/scripts/532487-duolingo-wordbank-toggle
 
 var bodyObserver = new MutationObserver((bodyMutationList, bodyMutationObserver) => {
   var rootDiv = document.getElementById("root");
