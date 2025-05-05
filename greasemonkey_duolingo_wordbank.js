@@ -4,7 +4,7 @@
 // @description A Greasemonkey script that adds "Show Word Bank" to Duolingo to make copy and pasting easier.
 // @license  Apache-2.0
 // @grant    none
-// @include  https://www.duolingo.com/lesson
+// @include  https://www.duolingo.com/*
 // ==/UserScript==
 
 // Github:       https://github.com/YChiasma/Duolingo_Wordbank
