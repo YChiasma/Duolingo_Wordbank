@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name     Duolingo Wordbank Toggle
-// @version  1
+// @version  1.0.1
 // @description A Greasemonkey script that adds "Show Word Bank" to Duolingo to make copy and pasting easier.
 // @license  Apache-2.0
 // @grant    none
