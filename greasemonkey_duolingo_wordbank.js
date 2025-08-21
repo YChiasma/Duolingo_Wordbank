@@ -5,6 +5,7 @@
 // @license  Apache-2.0
 // @grant    none
 // @include  https://www.duolingo.com/*
+// @namespace https://greasyfork.org/users/1456430
 // ==/UserScript==
 
 // Github:       https://github.com/YChiasma/Duolingo_Wordbank
